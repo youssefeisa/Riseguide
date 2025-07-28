@@ -1,11 +1,11 @@
 # 📊 Riseguide Reviews — Web Scraping & Sentiment Analysis
 
-This project scrapes the **latest 889 reviews** from the last **3 months** on [Trustpilot](https://www.trustpilot.com/) for an online educational platform called **Riseguide**, then performs **sentiment analysis** to classify reviews into **positive, negative,** or **neutral**.
+This project scrapes the **latest 923 reviews** from the last **3 months** on [Trustpilot](https://www.trustpilot.com/) for an online educational platform called **Riseguide**, then performs **sentiment analysis** to classify reviews into **positive, negative,** or **neutral**.
 
 ## 🛠️ Workflow Summary
 
 1. **Scraping Reviews**
-   - Fetches all pages up to 889 reviews
+   - Fetches all pages up to 923 reviews
    - Filters reviews based on the last 3 months only
 
 2. **Sentiment Analysis**
@@ -20,10 +20,10 @@ This project scrapes the **latest 889 reviews** from the last **3 months** on [T
 
 | Sentiment | Count |
 |-----------|-------|
-| Positive  | 621   |
-| Neutral   | 235   |
+| Positive  |  648  |
+| Neutral   |  242  |
 | Negative  |  33   |
-| Total     |  889  |
+| Total     |  923  |
 
 ## 📈 Sample Chart
 
